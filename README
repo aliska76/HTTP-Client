@@ -1,0 +1,21 @@
+login: alisara
+Name:Alisa Rahlina  
+ID:327153466
+Ex2. Home Assignment 2: HTTP Client
+----------------------------------------
+Exercise name:	communication applications, exercise No.2, HTTP Client
+
+Submitted Files
+---------------
+client.c - implementation (in C) the HTTP client side.
+README - This file.
+
+How to compile
+--------------
+You can compile the client.c file by using the makefile with line: make client or in terminal just with lines:
+all:
+	gcc -o client client.c
+
+Details: I've got succeed recieve request with address www.ynet.co.il and port 80 and even with protocol https. Response will get in html format.
+
+e-mail:aliska76@gmail.com
